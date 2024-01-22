@@ -20,7 +20,7 @@ Lien EASY EDA SING IN DE JIROGASY : https://easyeda.com/editor#id=0810400c42d648
 ![BQ](https://github.com/Jirogasy/GERBER-BMS-Jirogasy-Version-2/assets/140087227/44f664db-80c2-42d5-9122-3af1803b8e16)
 
 # Shema Electronique de l'Atmega
-[https://github.com/Jirogasy/GERBER-BMS-Jirogasy-Version-2/issues/4#issue-2093971768](https://github.com/Jirogasy/GERBER-BMS-Jirogasy-Version-2/issues/4#issue-2093971768)
+![ATMEGA](https://github.com/Jirogasy/GERBER-BMS-Jirogasy-Version-2/assets/140087227/ed88ed8d-02ad-437d-b62c-719212ff2fb9)
 
 # Shema Electronique des MOS
 ![MOSFET](https://github.com/Jirogasy/GERBER-BMS-Jirogasy-Version-2/assets/140087227/9c719ae3-b704-4498-ab86-83666f6adcb2)
