@@ -2,4 +2,4 @@
 
 
 #Le fichier dans easy eda est le voici
-![Uploading EASY_EDA_Fichier.gif…]()
+https://github.com/Jirogasy/GERBER-BMS-Jirogasy-Version-2/issues/1#issue-2093677691
