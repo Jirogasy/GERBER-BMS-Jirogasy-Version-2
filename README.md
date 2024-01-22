@@ -17,6 +17,7 @@ Lien EASY EDA SING IN DE JIROGASY : https://easyeda.com/editor#id=0810400c42d648
 ![EASY_EDA_Fichier](https://github.com/Jirogasy/GERBER-BMS-Jirogasy-Version-2/assets/140087227/fc0ce9d0-2d5a-4ec9-9b23-f2d0112e86c7)
 
 # Shema Electronique du bq
+![BQ](https://github.com/Jirogasy/GERBER-BMS-Jirogasy-Version-2/assets/140087227/44f664db-80c2-42d5-9122-3af1803b8e16)
 
 
 
