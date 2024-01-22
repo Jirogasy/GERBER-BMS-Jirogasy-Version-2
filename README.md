@@ -1,6 +1,6 @@
 #Comment télécharger ce fichier en tant qu'administrateur ?
- 1 - git clone + Lien
- 2 - etrée 
+- git clone + Lien
+- etrée 
 # ATTENTION 
 Pour des raisons de sécurité, si c'est la première fois que vous téléchargez en tant qu'administrateur, vous devez insérer le jeton d'accès Git suivant : " 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 "
 Si rien ne s'affiche, ne vous inquiétez pas, c'est normal.
