@@ -1,6 +1,7 @@
 # Comment télécharger ce fichier en tant qu'administrateur JIROGASY ?
-- git clone https://github.com/Jirogasy/GERBER-BMS-Jirogasy-Version-2.git
-- etrée
+
+- Ouvrez votre terminal, puis écrivez la commande suivante - git clone https://github.com/Jirogasy/GERBER-BMS-Jirogasy-Version-2.git
+- Puis appuyez sur 'Entrée
 - Et c'est bon, vérifiez dans votre disque que le téléchargement est terminé.
 # ATTENTION !
 Pour des raisons de sécurité, si c'est la première fois que vous téléchargez en tant qu'administrateur, vous devez insérer le jeton d'accès Git suivant : " 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 "
